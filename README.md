@@ -1,0 +1,2 @@
+# geotag-reduce
+for office
